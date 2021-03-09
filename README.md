@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/witomasi/d997dea8-a428-4eac-b20d-a1ffd3578058/e3e42ba3-d579-487c-8536-e302f49fc510/_apis/work/boardbadge/3f33caee-ee68-4701-a94b-73dc7c498411)](https://dev.azure.com/witomasi/d997dea8-a428-4eac-b20d-a1ffd3578058/_boards/board/t/e3e42ba3-d579-487c-8536-e302f49fc510/Microsoft.RequirementCategory)
 
 [![Build Status](https://dev.azure.com/DEMODeploy808/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/wtomaz808.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/DEMODeploy808/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=6&branchName=master)
 # Contributing
